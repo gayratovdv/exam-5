@@ -42,5 +42,5 @@ document.getElementById("myform").addEventListener("submit", function name(even)
     }
 
     firstInput.value = "";
-    secondInput.value = "";
+    firstInput.value = "";
 });
